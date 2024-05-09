@@ -32,3 +32,6 @@ public class _02_HomeWork {
         System.out.println("총점은 총 10점 중에서 " + score + "점 입니다.");
     }
 }
+틀렸습니다.
+------------------------------
+총점은 총 10점 중에서 score점 입니다.
